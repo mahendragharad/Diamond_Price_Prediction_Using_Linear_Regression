@@ -1,0 +1,9 @@
+pandas 
+numpy
+seaborn 
+matplotlib 
+
+-e .
+# -e . this type of command which links the requirements.txt to the setup.py
+# we use -e . For triggering the setup with setup.py we writing the -e . 
+# The -e . will use to install your package in current environment

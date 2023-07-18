@@ -1,0 +1,22 @@
+Python project :
+
+1. create the environment 
+using this command : conda create -p venv python==3.11 
+
+inside this the -p is creating the env in current directory 
+venv is the env name python==3.11 is the python version 
+
+2. Activate the environment 
+use this command : conda activate venv/
+
+3. Create the diff diff files 
+README file mainly used to write some information 
+
+Important for data science project :
+1. Hugging faces 
+2. Open API Keys 
+
+This will going to change the model training part 
+
+To add one single file use this 
+git add -- filename---

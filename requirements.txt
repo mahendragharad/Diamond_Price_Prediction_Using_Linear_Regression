@@ -3,6 +3,7 @@ numpy
 seaborn 
 matplotlib 
 sklearn
+Flask
 -e .
 # -e . this type of command which links the requirements.txt to the setup.py
 # we use -e . For triggering the setup with setup.py we writing the -e . 
